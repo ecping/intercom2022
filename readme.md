@@ -3,7 +3,7 @@
 ## Pour une visualisation des pages web :  
 
 
-![https://ecping.github.io/intercom2022/](https://ecping.github.io/intercom2022/)
+[https://ecping.github.io/intercom2022/](https://ecping.github.io/intercom2022/)
 
 
-Eric Bartz
+>Eric Bartz
